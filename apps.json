@@ -51,9 +51,10 @@
   {
 	"name": "qBittorrent",
 	"fileExtension": "zip",
-	"exeName": "fdm.exe",
+	"exeName": "qbittorrent.exe",
 	"run": "false",
     "url": "https://github.com/dpadGuy/RetroBatGFNThings/releases/download/GFNSoftware/qBittorrent.zip"
   },
 ]
+
 
