@@ -1,0 +1,9 @@
+[
+  {
+	"name": "WinXShell_x64",
+    "exeName": "WinXShell.exe",
+	"taskbarFixer": "WSSolution.exe",
+	"run": "true",
+    "url": "https://github.com/dpadGuy/RetroBatGFNThings/releases/download/GFNSoftware/winxshell.zip"
+  },
+]

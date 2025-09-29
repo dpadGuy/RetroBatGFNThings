@@ -1,0 +1,59 @@
+[
+  {
+    "name": "UwUTools",
+	"fileExtension": "exe",
+	"exeName": "UwUTools.exe",
+	"run": "false",
+    "url": "https://github.com/dpadGuy/UwUTools_Binaries/releases/download/UwUToolsBinaries/UwUTools.exe"
+  },
+  {
+    "name": "Mozilla Firefox",
+	"fileExtension": "zip",
+	"exeName": "firefox.exe",
+	"run": "false",
+    "url": "https://github.com/dpadGuy/RetroBatGFNThings/releases/download/GFNSoftware/Mozilla.Firefox.zip"
+  },
+  {
+    "name": "System Informer",
+	"fileExtension": "zip",
+	"exeName": "systeminformer.exe",
+	"run": "false",
+    "url": "https://github.com/dpadGuy/RetroBatGFNThings/releases/download/GFNSoftware/System.Informer.zip"
+  },
+    {
+    "name": "Explorer++",
+	"fileExtension": "exe",
+	"exeName": "Explorer++.exe",
+	"run": "false",
+    "url": "https://github.com/dpadGuy/RetroBatGFNThings/releases/download/GFNSoftware/Explorer++.exe"
+  },
+  {
+    "name": "7-Zip",
+	"fileExtension": "zip",
+	"exeName": "7zFM.exe",
+	"run": "false",
+    "url": "https://github.com/dpadGuy/RetroBatGFNThings/releases/download/GFNSoftware/7-Zip.zip"
+  },
+  {
+    "name": "Notepad++",
+	"fileExtension": "zip",
+	"exeName": "notepad++.exe",
+	"run": "false",
+    "url": "https://github.com/dpadGuy/RetroBatGFNThings/releases/download/GFNSoftware/Notepad++.zip"
+  },
+  {
+	"name": "FDM",
+	"fileExtension": "zip",
+	"exeName": "fdm.exe",
+	"run": "false",
+    "url": "https://github.com/dpadGuy/RetroBatGFNThings/releases/download/GFNSoftware/FDM.zip"
+  },
+  {
+	"name": "qBittorrent",
+	"fileExtension": "zip",
+	"exeName": "fdm.exe",
+	"run": "false",
+    "url": "https://github.com/dpadGuy/RetroBatGFNThings/releases/download/GFNSoftware/qBittorrent.zip"
+  },
+]
+
